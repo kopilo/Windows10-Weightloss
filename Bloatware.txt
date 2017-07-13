@@ -16,6 +16,7 @@ Microsoft.Wallet
 microsoft.windowscommunicationsapps
 Microsoft.WindowsFeedbackHub
 Microsoft.WindowsSoundRecorder
+Microsoft.WindowsPhone
 Microsoft.XboxApp
 Microsoft.XboxGameOverlay
 Microsoft.XboxIdentityProvider
