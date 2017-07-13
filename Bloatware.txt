@@ -23,4 +23,5 @@ Microsoft.XboxIdentityProvider
 Microsoft.XboxSpeechToTextOverlay
 Microsoft.ZuneMusic
 Microsoft.ZuneVideo
+Microsoft.WindowsMaps
 6Wunderkinder.Wunderlist
