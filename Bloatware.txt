@@ -3,6 +3,7 @@ Microsoft.BingFinance
 Microsoft.BingNews
 Microsoft.BingWeather
 Microsoft.BingWikipediaBrowser
+Microsoft.BingSports
 Microsoft.DesktopAppInstaller
 Microsoft.Getstarted
 Microsoft.Messaging
