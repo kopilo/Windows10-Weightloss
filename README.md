@@ -1,4 +1,4 @@
-# Win10WeightLoss
+# Windows 10 Weightloss
 Windows 10 Remove MS Bloat
 
 Powershell Administrator
